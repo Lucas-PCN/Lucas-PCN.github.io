@@ -1,0 +1,33 @@
+    h1{
+        font-family: tahoma;
+    }
+
+    #description{
+        font-family: 'Trebuchet MS';
+    }
+
+    body{
+        background-color: #fbc2b5;
+        text-align: justify;
+        margin-left: 33%;
+    }
+
+    .bolded-text{
+        font-weight: bold;
+    }
+
+    #tamanho-fonte-1{
+        font-size: 140%;
+    }
+
+    #tamanho-fonte-2{
+        font-size: 140%;
+    }
+
+    #tamanho-fonte-3{
+        font-size: 140%;
+    }
+
+    #imagem{
+        margin-left: 15%;
+    }
